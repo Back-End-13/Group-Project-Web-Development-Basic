@@ -30,3 +30,15 @@ user dapat melihat berita mengenai kerusakan lingkungan dan dampaknya
 - 20 Oktober 2022 Coding
 - 21 Oktober 2022 Coding
 - 24 Oktober 2022 Submit Stage Assignment
+
+### LINK
+BRD (Link)
+https://whimsical.com/brd-XsyieGr6KV8XJNbr3xeute
+Wireframe (Link)
+https://whimsical.com/wireframe-V8HKDsVRwWBp6sfGQJ4Ayy
+User Flow (Link)
+https://whimsical.com/user-flow-7nD2SLoPbU8pJgzPcpbPe4
+Slidedeck Presentation (Link)
+-
+Link Youtube - Recording Video - Group Project
+-
