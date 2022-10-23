@@ -33,12 +33,10 @@ user dapat melihat berita mengenai kerusakan lingkungan dan dampaknya
 
 ### LINK
 - BRD (Link)
-```https://whimsical.com/brd-XsyieGr6KV8XJNbr3xeute```S
+https://whimsical.com/brd-XsyieGr6KV8XJNbr3xeute
 - Wireframe (Link)
-```https://whimsical.com/wireframe-V8HKDsVRwWBp6sfGQJ4Ayy```
+https://whimsical.com/wireframe-V8HKDsVRwWBp6sfGQJ4Ayy
 - User Flow (Link)
-```https://whimsical.com/user-flow-7nD2SLoPbU8pJgzPcpbPe4```
+https://whimsical.com/user-flow-7nD2SLoPbU8pJgzPcpbPe4
 - Slidedeck Presentation (Link)
-
 - Link Youtube - Recording Video - Group Project
-
