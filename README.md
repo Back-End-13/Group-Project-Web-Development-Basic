@@ -39,4 +39,4 @@ https://whimsical.com/wireframe-V8HKDsVRwWBp6sfGQJ4Ayy
 - User Flow (Link)
 https://whimsical.com/user-flow-7nD2SLoPbU8pJgzPcpbPe4
 - Slidedeck Presentation (Link)
-- Link Youtube - Recording Video - Group Project
+https://www.canva.com/design/DAFP70CaEj8/mgVg88x6MBaEaExmJnh75Q/view?utm_content=DAFP70CaEj8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
